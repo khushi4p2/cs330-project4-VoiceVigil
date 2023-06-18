@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.pj4test'
+    namespace 'com.example.VoiceVigil'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.pj4test"
-        minSdk 23
+        applicationId "com.example.VoiceVigil"
+        minSdk 26   //to allow the slient notification functionality
         targetSdk 33
         versionCode 1
         versionName "1.0"

@@ -5,12 +5,12 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/SnapView"
+        android:id="@+id/keyWordView"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:background="@color/white"
         android:gravity="center"
-        android:text="NO SNAP"
+        android:text="NO KEYWORD"
         android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

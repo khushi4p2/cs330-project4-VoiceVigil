@@ -1,4 +1,4 @@
-package com.example.pj4test
+package com.example.VoiceVigil
 
 import android.graphics.Color
 

@@ -8,7 +8,6 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/cameraFragmentContainerView"
-        android:name="com.example.pj4test.fragment.CameraFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -19,7 +18,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/audioFragmentContainerView"
-        android:name="com.example.pj4test.fragment.AudioFragment"
+        android:name="com.example.VoiceVigil.fragment.AudioFragment"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
